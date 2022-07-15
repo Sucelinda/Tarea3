@@ -37,7 +37,8 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-            <h2 style="color:#D123BC ;"> Nombre: Sucelinda Valladares Flores <br>
+            <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
+                    <h2 style="color:#D123BC ;"> Nombre: Sucelinda Valladares Flores <br>
                          N'Cuenta : 20192530093
                     </h2>
                 </div>
